@@ -11,6 +11,6 @@
 
 ## architecture
 
-- [hexagonal architecture](https://habr.com/ru/post/267125/)
+- hexagonal architecture [habr](https://habr.com/ru/post/267125/) [github](https://github.com/fideloper/hexagonal-php)
 - [DDD, Hexagonal, Onion, Clean, CQRS… как я собрал всё это вместе](https://habr.com/ru/post/427739/)
 
