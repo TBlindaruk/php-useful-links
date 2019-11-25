@@ -12,5 +12,6 @@
 ## architecture
 
 - hexagonal architecture [habr](https://habr.com/ru/post/267125/) [github](https://github.com/fideloper/hexagonal-php)
+- example of hexagonal ([geithub / mydrinks](https://github.com/norzechowicz/mydrinks))
 - [DDD, Hexagonal, Onion, Clean, CQRS… как я собрал всё это вместе](https://habr.com/ru/post/427739/)
 
